@@ -1,14 +1,13 @@
-# Flux 
+# See Sunil Sell 
 
-An application architecture for React
 
 ---
 
-### Flux Design
+### Knock Knock
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
-- Views: Render Data via React
+- Views: Render Data via React <img src="https://github.com/favicon.ico" width="48">
 
 ---
 
